@@ -1,0 +1,17 @@
+# Malware Basics
+
+This section covers common types of malware and their functions.
+## Backdoor
+A backdoor is a type of malware used to gain unauthorized access to a system by bypassing normal authentication procedures.
+
+## Ransomware
+Ransomware is malicious software that encrypts or locks a computer system or data and holds it captive until a payment (ransom) is made.
+
+## Scareware
+Scareware is a type of malware that uses fear tactics to trick users into taking a specific action, such as installing fake software or paying money.
+
+## Rootkit
+A rootkit is designed to modify the operating system to create a hidden backdoor, which attackers can use to access a computer remotely.
+
+## Virus
+A virus is a type of malicious computer program that, when executed, replicates itself and attaches to other executable files by inserting its own code.
